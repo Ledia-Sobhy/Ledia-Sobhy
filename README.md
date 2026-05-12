@@ -38,7 +38,6 @@ I have solidified my analytical expertise through intensive professional tracks:
 #### 🕵️ [Crime Data Exploration](رابط_مشروع_الجرايم)
 *Leveraging SQL and Python to uncover seasonal patterns and geographical trends in criminal activities.*
 
----
 
 
 <p align="left">

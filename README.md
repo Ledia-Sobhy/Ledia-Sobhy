@@ -2,8 +2,8 @@
 **Specializing in Data Intelligence & Business Insights** 📊 | **AI Engineering Student @ BSNU** | **Certified Data Analyst (NTI & DEPI)**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ledia-sobhy"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ledia.sobhy.naguib@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/ledia-sobhy](https://www.linkedin.com/in/ledia-sobhy-b30b072b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:lediasobhy58@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---

@@ -24,7 +24,7 @@ A passionate **Data Analyst** and **AI Engineering** student at **Beni Suef Nati
 
 
 ### 📫 Let's Connect!
-* 💼 [LinkedIn](https://www.linkedin.com/in/ledia-sobhy)
+* 💼 [LinkedIn]([https://www.linkedin.com/in/ledia-sobhy](https://www.linkedin.com/in/ledia-sobhy-b30b072b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 * 📧 [Email](lediasobhy58@gmail.com)
 * 🌍 [Portfolio]()
 

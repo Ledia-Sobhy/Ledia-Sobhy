@@ -1,5 +1,5 @@
 # 💻 Ledia Sobhy | Data Analyst & AI Engineer
-**Turning Crude Data into Actionable Insights** 📊 | **Artificial Intelligence Student @ BSNU** | **DEPI & NTI Trainee**
+**Specializing in Data Intelligence & Business Insights** 📊 | **AI Engineering Student @ BSNU** | **Certified Data Analyst (NTI & DEPI)**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ledia-sobhy"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -8,38 +8,39 @@
 
 ---
 
-### ⚡ Quick Summary
+### ⚡ Professional Summary
 
-I am an **Artificial Intelligence Engineering** student at Beni Suef National University. My expertise lies in combining technical AI skills with advanced **Data Intelligence**. I specialize in translating complex business processes into high-impact, diagnostic dashboards.
+I am an **Artificial Intelligence Engineering** student at Beni Suef National University (Class of 2026), with a core professional focus on **Data Analysis**. My unique value lies in combining academic AI foundations with advanced Data Analytics skills to transform complex datasets into clear, actionable business stories.
 
-* 🔭 **Current Focus:** Advanced Data Storytelling and AI-driven predictive modeling.
-* 🎓 **Academic Excellence:** 4th Year Student specializing in Artificial Intelligence.
-* 🎖️ **Certifications:** NTI Graduate & DEPI 4th Round Trainee.
-
----
-
-### 🛠️ Technical Skills
-
-* 🚀 **Data Visualization:** Power BI, Tableau, Advanced Excel (Dashboards & Pivot Tables).
-* 🐍 **Programming:** Python (Pandas, NumPy, Scikit-learn).
-* 🗄️ **Databases:** SQL (PostgreSQL, MySQL) for data extraction and manipulation.
+I have solidified my analytical expertise through intensive professional tracks:
+* 🎖️ **NTI (National Telecommunications Institute):** Professional Data Analysis Certification.
+* 🚀 **DEPI (Digital Egypt Pioneers Initiative):** Data Analysis Specialist (Round 4).
 
 ---
 
-### 📂 Featured Projects
+### 🛠️ Technical Toolbox
 
-#### 📉 [Customer Complaints Analysis](رابط_مشروع_الشكاوي_بتاعك)
-*Collaborative diagnostic analysis of 62,500+ complaints using Power BI & Excel.*
+* 📊 **Core Analytics:** Power BI (DAX, Power Query), Advanced Excel, Tableau.
+* 🗄️ **Data Management:** SQL for complex data extraction, cleaning, and manipulation.
+* 🐍 **Programming:** Python for Data Science (Pandas, NumPy, Seaborn).
+* 💡 **Business Skills:** Data Storytelling, KPI Identification, Requirements Analysis.
+
+---
+
+### 📂 Featured Analytics Projects
+
+#### 📉 [Customer Complaints Analysis](https://github.com/Ledia-Sobhy/Customer-Complaints-Analysis-Dashboard)
+*A collaborative diagnostic analysis of 62,500+ complaints to monitor resolution efficiency and regional service trends using Power BI & Excel.*
 
 #### 🏥 [Hospital Performance Dashboard](رابط_مشروع_المستشفى)
-*A comprehensive BI tool to monitor healthcare efficiency and patient flow.*
+*Comprehensive BI solution focused on healthcare efficiency, patient flow, and resource allocation.*
 
-#### 🕵️ [Crime Data Analysis](رابط_مشروع_الجرايم)
-*Exploratory data analysis (EDA) and visualization of criminal patterns and trends.*
+#### 🕵️ [Crime Data Exploration](رابط_مشروع_الجرايم)
+*Leveraging SQL and Python to uncover seasonal patterns and geographical trends in criminal activities.*
 
 ---
 
-### 📈 GitHub Activities
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Ledia-Sobhy&show_icons=true&theme=flat-blue&count_private=true" width="400" />
 </p>

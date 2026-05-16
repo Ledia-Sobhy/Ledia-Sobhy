@@ -26,18 +26,13 @@ I have solidified my analytical expertise through intensive professional tracks:
 * 💡 **Business Skills:** Data Storytelling, KPI Identification, Requirements Analysis.
 
 ---
+## 📂 Featured Analytics Projects
 
-### 📂 Featured Analytics Projects
-
-#### 📉 [Customer Complaints Analysis](https://github.com/Ledia-Sobhy/Customer-Complaints-Analysis-Dashboard)
-*A collaborative diagnostic analysis of 62,500+ complaints to monitor resolution efficiency and regional service trends using Power BI & Excel.*
-
-#### 🏥 [Hospital Performance Dashboard](رابط_مشروع_المستشفى)
-*Comprehensive BI solution focused on healthcare efficiency, patient flow, and resource allocation.*
-
-#### 🕵️ [Crime Data Exploration](رابط_مشروع_الجرايم)
-*Leveraging SQL and Python to uncover seasonal patterns and geographical trends in criminal activities.*
-
+| Project | Core Value | Live Link |
+| :--- | :--- | :--- |
+| **📉 Customer Complaints Analysis** | Diagnostic analysis of **62,500+ complaints** to monitor resolution efficiency and regional service trends using Power BI & Excel. | [📂 View Repository](https://github.com/Ledia-Sobhy/Customer-Complaints-Analysis-Dashboard) |
+| **🏥 Hospital Performance Dashboard** | Comprehensive BI solution focused on healthcare efficiency, patient flow, and resource allocation. | [📂 View Repository](#) |
+| **🕵️ Crime Data Exploration** | Leveraging SQL and Python to uncover seasonal patterns and geographical trends in criminal activities. | [📂 View Repository](#) |
 ---
 
 ### 📈 GitHub Insights

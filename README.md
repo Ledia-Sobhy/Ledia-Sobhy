@@ -20,10 +20,9 @@ I have solidified my analytical expertise through intensive professional tracks:
 
 ### 🛠️ Technical Toolbox
 
-* 📊 **Core Analytics:** Power BI (DAX, Power Query), Advanced Excel, Tableau.
+* 📊 **Core Analytics:** Advanced Power BI (DAX, Power Query), Advanced Excel, Tableau.
 * 🗄️ **Data Management:** SQL for complex data extraction, cleaning, and manipulation.
 * 🐍 **Programming:** Python for Data Science (Pandas, NumPy, Seaborn).
-* 🤖 **AI Foundations:** Machine Learning, Predictive Modeling, and Neural Networks.
 * 💡 **Business Skills:** Data Storytelling, KPI Identification, Requirements Analysis.
 
 ---

@@ -30,9 +30,9 @@ I have solidified my analytical expertise through intensive professional tracks:
 
 | Project | Core Value | Live Link |
 | :--- | :--- | :--- |
-| **📉 Customer Complaints Analysis** | Diagnostic analysis of **62,500+ complaints** to monitor resolution efficiency and regional service trends using Power BI & Excel. | [📂 View Repository](https://github.com/Ledia-Sobhy/Customer-Complaints-Analysis-Dashboard) |
-| **🏥 Hospital Performance Dashboard** | Comprehensive BI solution focused on healthcare efficiency, patient flow, and resource allocation. | [📂 View Repository](#) |
-| **🕵️ Crime Data Exploration** | Leveraging SQL and Python to uncover seasonal patterns and geographical trends in criminal activities. | [📂 View Repository](#) |
+| **📉 Customer Complaints** | Diagnostic analysis of **62,500+ complaints** to monitor resolution efficiency and regional service trends using Power BI & Excel. | [🔗 View](https://github.com/Ledia-Sobhy/Customer-Complaints-Analysis-Dashboard) |
+| **🏥 Hospital Performance** | Comprehensive BI solution focused on healthcare efficiency, patient flow, and resource allocation. | [🔗 View](#) |
+| **🕵️ Crime Data Exploration** | Leveraging SQL and Python to uncover seasonal patterns and geographical trends in criminal activities. | [🔗 View](#) |
 ---
 
 ### 📈 GitHub Insights

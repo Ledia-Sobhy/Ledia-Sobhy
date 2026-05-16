@@ -42,6 +42,7 @@ I have solidified my analytical expertise through intensive professional tracks:
 ---
 
 ### 📈 GitHub Insights
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ledia-Sobhy&show_icons=true&theme=radial&rank_icon=github" width="400" alt="Ledia's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ledia-Sobhy&theme=github" width="600" alt="Ledia's GitHub Stats" />
 </p>

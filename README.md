@@ -25,7 +25,8 @@ I have solidified my analytical expertise through intensive professional tracks:
 * 🐍 **Programming:** Python for Data Science (Pandas, NumPy, Seaborn).
 * 💡 **Business Skills:** Data Storytelling, KPI Identification, Requirements Analysis.
 
----## 📂 Featured Analytics Projects
+---
+### 📂  Highlighted Analytics Projects
 
 | Project | Core Value | Live Link |
 | :--- | :--- | :--- |

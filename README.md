@@ -25,14 +25,13 @@ I have solidified my analytical expertise through intensive professional tracks:
 * 🐍 **Programming:** Python for Data Science (Pandas, NumPy, Seaborn).
 * 💡 **Business Skills:** Data Storytelling, KPI Identification, Requirements Analysis.
 
----
-## 📂 Featured Analytics Projects
+---## 📂 Featured Analytics Projects
 
 | Project | Core Value | Live Link |
 | :--- | :--- | :--- |
-| **📉 Customer Complaints** | Diagnostic analysis of **62,500+ complaints** to monitor resolution efficiency and regional service trends using Power BI & Excel. | [🔗 View](https://github.com/Ledia-Sobhy/Customer-Complaints-Analysis-Dashboard) |
-| **🏥 Hospital Performance** | Comprehensive BI solution focused on healthcare efficiency, patient flow, and resource allocation. | [🔗 View](#) |
-| **🕵️ Crime Data Exploration** | Leveraging SQL and Python to uncover seasonal patterns and geographical trends in criminal activities. | [🔗 View](#) |
+| **📉&nbsp;Customer&nbsp;Complaints** | Diagnostic analysis of 62,500+ complaints to monitor resolution efficiency using Power BI & Excel. | [🔗 View](https://github.com/Ledia-Sobhy/Customer-Complaints-Analysis-Dashboard) |
+| **🏥&nbsp;Hospital&nbsp;Performance** | Comprehensive BI solution focused on healthcare efficiency, patient flow, and resource allocation. | [🔗 View](#) |
+| **🕵️&nbsp;Crime&nbsp;Data&nbsp;Exploration** | Leveraging SQL and Python to uncover seasonal patterns and geographical trends in crime data. | [🔗 View](#) |
 ---
 
 ### 📈 GitHub Insights
